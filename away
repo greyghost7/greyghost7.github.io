@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Away | Out of Office</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="away.html" class="active">Away</a>
+    </nav>
+    <main>
+        <h1>I am Away</h1>
+        <p>You have reached my away page! I might be stepping out, working on new projects, or taking a break.</p>
+        <p>Head back to the homepage whenever you are ready.</p>
+    </main>
+</body>
+</html>
